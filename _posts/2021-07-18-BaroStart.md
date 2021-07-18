@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "AI 1주차"
+---
+
 ## [1]모듈 불러오기
 
 
